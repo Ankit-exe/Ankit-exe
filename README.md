@@ -17,9 +17,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankit-exe.Ankit-exe&"  />
-</div>
 
 ###
 
@@ -28,6 +25,8 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=black&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="22" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="22" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
