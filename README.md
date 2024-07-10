@@ -89,6 +89,4 @@
 
 <br clear="both">
 
-<p align="center">Made with 💖</p>
-
 ###
